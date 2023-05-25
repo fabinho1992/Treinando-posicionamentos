@@ -1,0 +1,84 @@
+.container__secao04{
+    background-color: var(--cinza-claro);
+    padding: 2rem 1rem 4rem 1rem;
+}
+
+.container__secao04 h2{
+    color: var(--azul-escuro);
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin: 2rem 0;
+    
+}
+
+.container__secao04 p{
+    color: var(--lilas);
+    font-weight: 400;
+    padding: 1rem;
+}
+
+.link{
+    border-bottom: 1.5px solid var(--verde-claro);
+    align-items: center;
+    width: 42%;
+    display: flex;
+    margin: 2rem auto;
+    justify-content: center;
+    gap: 8px;
+    
+    
+}
+.link p{
+    padding: 10px 0;
+    color: var(--verde-claro);
+    font-weight: 500;
+    
+}
+
+.cartao__visita{
+    width: 90%;
+    background-color: var(--branco);
+    margin: 2rem auto;
+    border-radius: 5px;
+    padding: 1rem 0;
+}
+
+.cartao__visita .cartao__visita-texto{
+    font-size: 14px;
+    font-weight: 600;
+    padding: 2rem;
+    line-height: 1.6rem;
+}
+
+.cartao__visita-foto{
+    display: flex;
+    align-items: center;
+    margin: 1rem 2rem;
+    gap: 10px;
+}
+
+.cartao__visita-foto h3{
+    font-size: 12px;
+    color: var(--azul-escuro);
+    font-weight: 700;
+}
+
+.cartao__visita-foto p{
+    font-size: 10px;
+    padding: 0;
+    color: var(--azul-escuro);
+}
+
+.cartao__visita-foto img{
+    width: 40px;
+    border-radius: 50%;
+    
+}
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+.ilustracao__02{
+    background-image: url('../images/bg-curve-mobile.svg');
+    background-size: cover;
+    background-position: top;
+    padding-top: 2rem;
+    
+}
+.container__ilustracao{
+    width: 80%;
+    margin: 2rem auto 0 auto;
+}
+.ilustracao__02 img{
+    max-width: 100%;
+}
